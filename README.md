@@ -1,7 +1,7 @@
 ## Hello, I'm Gabriela!
 
-- A Full Stack Web-Development graduate with specialization in Marketing to deliver user-centered digital solutions.
-- 🌱 Passionate about continuous learning, I've been earning certifications and advancing my skills in Back-End development, focusing on databases and cybersecurity, to build robust, secure, and scalable applications
+- A Full Stack Web-Development graduated with specialization in Marketing to deliver user-centered digital solutions.
+- 🌱 Passionate about continuous learning, I've been earning certifications and advancing my skills in Front-End development.
 - 🚀 Committed to merging creativity and technology, I aim to craft innovative and impactful web experiences
   <div align="center">
   <a href="https://github.com/gabycancello">
