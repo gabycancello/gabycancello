@@ -1,6 +1,6 @@
-## Hello, I'm Gabriela!
-## Olá, Sou Gabriela!
-## Dzień dobry, Jestem Gabriela!
+## 🇺🇸 Hello, I'm Gabriela!
+## 🇧🇷 Olá, Sou Gabriela!
+## 🇵🇱 Dzień dobry, Jestem Gabriela!
 
 - Bacharel em desenvolvimento Full Stack, especializada em Front-End. Construo interfaces funcionais unindo design e tecnologia para criar experiências digitais únicas.
 - Com uma base em desenvolvimento web e marketing, meu foco está em soluções centradas no usuário, combinando estética e funcionalidades.
