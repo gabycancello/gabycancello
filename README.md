@@ -1,8 +1,12 @@
 ## Hello, I'm Gabriela!
+## Olá, Sou Gabriela!
+## Dzień dobry, Jestem Gabriela!
 
-- A Full Stack Web-Development graduated with specialization in Marketing to deliver user-centered digital solutions.
-- 🌱 Passionate about continuous learning, I've been earning certifications and advancing my skills in Front-End development.
-- 🚀 Committed to merging creativity and technology, I aim to craft innovative and impactful web experiences
+- Bacharel em desenvolvimento Full Stack, especializada em Front-End. Construo interfaces funcionais unindo design e tecnologia para criar experiências digitais únicas.
+- Com uma base em desenvolvimento web e marketing, meu foco está em soluções centradas no usuário, combinando estética e funcionalidades.
+- Apaixonada por aprendizado contínuo, aprimoro minhas habilidades com React, APIs e integrações para desenvolver aplicações escaláveis e intuitivas.
+- Quando não estou codando, estou lidando com minha gata, que aparentemente acha que é minha gerente de projetos (e nunca está satisfeita com os prazos)
+- Vamos conversar?
   <div align="center">
   <a href="https://github.com/gabycancello">
     <br>
