@@ -1,8 +1,9 @@
+<h1 align="center">Hi there! I'm Gabriela</h1>
+
 <p align="center">
   <img src="assets/gaby-dev.png" width="250" alt="Coding Gaby Pixel Art">
 </p>
 
-<h1 align="center">Hi there! I'm Gabriela</h1>
 <h3 align="center">🇧🇷 Olá | 🇺🇸 Hello | 🇵🇱 Cześć</h3>
 
 <p align="center">
