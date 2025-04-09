@@ -60,6 +60,6 @@
 <img align= "right" 
 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGM0bnJjdXdzcGl1b2o0ZWZrdmY2czhkc3ljbHF0ZzU1bGRtZzM2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NfiDPyrYxB6bLCxnkg/giphy.gif" width= "150" alt="Is it the end" />
 
-> _"Transformando boas ideias em experiências incríveis — uma linha de código por vez. 💚
+> "Transformando boas ideias em experiências incríveis — uma linha de código por vez. 💚
 > — **Gabriela Cancello**
 <br>
