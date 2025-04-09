@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gaby-dev.png" width="400" alt="Coding girl">
+  <img src="assets/gaby-dev.png" width="100%" style="max-width: 280px;" alt="Coding Gaby Pixel Art">
 </p>
 
 <h1 align="center">Hi there! I'm Gabriela</h1>
