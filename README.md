@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBjMjk4M2VjMTAwNmI3Y2Y4YjljZTk5Mzc4NWE3OTczNTIzMDEzNiZjdD1n/YrLk1d6zO92A4/giphy.gif" width="400" alt="Coding girl gif">
+  <img src="assets/gaby-dev.png" width="400" alt="Coding girl">
 </p>
 
 <h1 align="center">Hi there! I'm Gabriela</h1>
